@@ -1,6 +1,6 @@
 # hello
 
-> A Vue.js project
+> A Vue.js project,by vue-cli generate,use less
 
 ## Build Setup
 
